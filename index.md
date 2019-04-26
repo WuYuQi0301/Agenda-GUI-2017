@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/WuYuQi0301/Agenda-GUI-2017/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Hands-On-Money
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Team & Division
 
-```markdown
-Syntax highlighted code block
+项目经理：席睿、吴宇祺
 
-# Header 1
-## Header 2
-### Header 3
+UI设计：王友坤
 
-- Bulleted
-- List
+前端开发：王友坤、杨芮
 
-1. Numbered
-2. List
+后端开发：王雁玲、孙肖冉、许倚安
 
-**Bold** and _Italic_ and `Code` text
+数据库：王雁玲
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Documentation Content
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WuYuQi0301/Agenda-GUI-2017/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- 1、About 项目概况
+- 2、[Team profile](https://github.com/2019-system-analysis-team/Hands-On-Money/blob/master/reports/documents/Team-profile.md)  团队组建
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+- X1 meeting-records
+  - [项目启动会议](https://github.com/2019-system-analysis-team/Hands-On-Money/blob/master/reports/meeting-records/19-03-10%20%E9%A1%B9%E7%9B%AE%E5%90%AF%E5%8A%A8%E4%BC%9A%E8%AE%AE%E8%AE%B0%E5%BD%95.md) (19/3/10)
+- X2 KANBAN
+  - [Week 2](https://github.com/2019-system-analysis-team/Hands-On-Money/projects/1)
